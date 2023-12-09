@@ -46,7 +46,7 @@ float gradeToPt(string grade)
 
     if(grade == "A+" || grade == "A")
         Pt = 4;
-    else if (grade == "B+")
+    else if (grade == "A-")
         Pt = 3.75;
     else if (grade == "B+")
         Pt = 3.5;
