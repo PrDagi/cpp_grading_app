@@ -1,3 +1,7 @@
+<!--- header start --->
+<img src="https://github.com/progdagi/progdagi/assets/142475159/957577bd-3877-47de-9d9d-9b70c5a6b317" height="21px" style="width: 100%;">
+<!--- header end --->
+
 # software engineering 1st year student grading Calculator App in C++
 
 ## Introduction
@@ -31,3 +35,6 @@ https://github.com/progdagi/cpp_grading_app/assets/142475159/257ffc01-b1d9-4bf4-
 
 ## Hit start button if you like it
 
+<!--- footer section start --->
+<img src="https://github.com/progdagi/progdagi/assets/142475159/8e6ebce8-54d5-48e3-ae20-23ea1e78f6ba" height="55px" style="width: 100%; margin-top: -175px;padding: 5px;">
+<!--- footer section end --->
